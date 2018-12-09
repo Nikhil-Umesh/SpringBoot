@@ -1,4 +1,6 @@
 server.port: 8080
+endpoints:
+  enabled: true
 spring:
   application:
     name: test
